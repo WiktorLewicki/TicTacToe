@@ -1,5 +1,7 @@
 Work time at the moment: 2h
 
+I am the sole author of the entire code. Wiktor Lewicki
+
 If you want to play: tictactoe/Game/TicTacToe.exe
 
 This is the most popular version of the game "Tic Tac Toe." Winning is not possible. In the case where both players play optimally, the game always leads to a draw. 
